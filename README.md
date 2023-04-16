@@ -1,16 +1,35 @@
-### Hi there 👋
+# Biografía
 
-<!--
-**devbarahona/DevBarahona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información Personal
 
-Here are some ideas to get you started:
+- Nombre: Josue Alexander Cisneros Barahona
+- Edad: 23 años
+- Lugar de nacimiento: Salvadoreño
+- Nacionalidad: 29 de enero del 2000
+- Ocupación: Estudiante de ingeniería en sistemas y futuro programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educación
+
+- Universidad XYZ, Ingeniería en Sistemas, 2022-actualidad.
+- Colegio ABC, Bachillerato en Ciencias y Letras, 2017-2019.
+
+## Experiencia Laboral
+
+- Desarrollador Web, Empresa XYZ, julio 2022 - actualidad.
+  - Creación de sitios web responsivos utilizando HTML, CSS y JavaScript.
+  - Diseño y maquetación de páginas web utilizando Bootstrap.
+  - Desarrollo de funcionalidades y animaciones interactivas utilizando JavaScript.
+
+## Habilidades
+
+- Desarrollo web: HTML, CSS, JavaScript, Bootstrap
+- Programación: Java, Python, C++
+- Bases de datos: MySQL, MongoDB
+- Habilidades de resolución de problemas y pensamiento crítico
+- Trabajo en equipo y habilidades interpersonales
+
+## Intereses
+
+- Aprender nuevos lenguajes de programación y tecnologías
+- Creación de proyectos personales de programación
+- Videojuegos y deportes
